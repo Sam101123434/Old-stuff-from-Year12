@@ -1,0 +1,1 @@
+{"scores": [[80, "da9n"], [53, "typi"], [53, "hi im john andths program works"], [52, "pogbogdog"], [50, "hellohello"], [50, "NOTYUNHA"], [49, "oeu aoe aoeu aoeu "], [47, "wah i got 47"], [42, "IM TEstING"], [30, "d6a7n"]]}
